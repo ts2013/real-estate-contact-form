@@ -1,6 +1,6 @@
 {
     "name": "ts2013/real-estate-contact-form",
-    "description": "Contact us form for real estate agents : Created with Laravel, Livewire, Tailwind CSS ",
+    "description": "Contact us form for real estate agencies / agents : Created with Laravel, Livewire, Tailwind CSS ",
     "type": "library",
     "license": "MIT",
     "autoload": {
