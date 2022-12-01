@@ -1,0 +1,28 @@
+{
+    "name": "ts2013/real-estate-contact-form",
+    "description": "Contact us form for real estate agents : Created with Laravel, livewire, tailwind CSS ",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ts2013\\RealEstateContactForm\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "tsegai tibebu",
+            "email": "tsecode2013@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "livewire/livewire": "^2.10"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Ts2013\\RealEstateContactForm\\RealEstateContactFormServiceProvider"
+            ]
+        }
+    }
+}
