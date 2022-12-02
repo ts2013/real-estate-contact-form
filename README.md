@@ -1,4 +1,4 @@
-Contact us form for real estate agents : Created with Laravel, Livewire, Tailwind CSS
+Contact us form for real estate agencies / agents : Created with Laravel, Livewire, Tailwind CSS
 
 
 ## Installation
