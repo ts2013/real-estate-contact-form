@@ -15,4 +15,4 @@ php artisan migrate
 Set your email address and email subject - config/settings.php
 
 
-This real estate contact form will save data to database and send an email to admin
+This real estate contact form will save data to database and will send an email to admin
